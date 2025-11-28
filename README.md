@@ -5,6 +5,13 @@ This repository is dedicated to my personal practice of algorithms and data stru
 
 The goal of this project is to provide clean, readable, and efficient Python implementations for educational purposes.
 
+## Acknowledgements & Resources
+This project follows the learning path of the **Algorithm Zuo** course.
+For more comprehensive content, advanced topics, and video tutorials, I highly recommend checking out the original repository and channel:
+
+* **Original Repository**: [algorithmzuo/algorithm-journey](https://github.com/algorithmzuo/algorithm-journey)
+* **YouTube Channel**: [Algorithm Zuo](https://www.youtube.com/@algorithmzuo)
+
 [//]: # (## Project Structure)
 
 [//]: # (The repository is organized into the following directories:)
